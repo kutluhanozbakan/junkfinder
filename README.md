@@ -4,13 +4,6 @@ macOS'ta kullanıcının normalde hiç açıp bakmadığı ama diskte sessizce y
 
 Uygulama önbellekleri, log dosyaları, Xcode'un derleme artıkları, simülatör önbellekleri ve Downloads'ta unutulmuş eski kurulum dosyaları gibi bilinen "junk" konumlarını tarar; her birinin boyutunu ve son erişim tarihini gösterir. Hiçbir şeyi otomatik veya kalıcı olarak silmez — sen seçersin, uygulama yalnızca seçtiklerini **Çöp Kutusu'na** taşır.
 
-## Ekran görüntüleri
-
-*(Aşağıdaki görseller gerçek bir tarama sonucunu değil, arayüzü göstermek için hazırlanmış örnek verilerle oluşturulmuştur.)*
-
-| Genel görünüm | Kategori detayı |
-| --- | --- |
-| ![Genel görünüm](Screenshots/genel-gorunum.svg) | ![Kategori detayı](Screenshots/kategori-detay.svg) |
 
 ## Özellikler
 
