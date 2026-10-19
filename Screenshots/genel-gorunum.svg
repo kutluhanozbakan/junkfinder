@@ -1,0 +1,53 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="1000" height="600" rx="14" fill="#F5F5F4"/>
+  <rect x="1" y="1" width="998" height="598" rx="13" fill="none" stroke="#DADAD6" stroke-width="1"/>
+
+  <rect x="0" y="0" width="1000" height="44" rx="14" fill="#ECECE8"/>
+  <rect x="0" y="30" width="1000" height="14" fill="#ECECE8"/>
+  <circle cx="26" cy="22" r="6" fill="#ED6A5E"/>
+  <circle cx="46" cy="22" r="6" fill="#F4BF4F"/>
+  <circle cx="66" cy="22" r="6" fill="#61C454"/>
+  <text x="500" y="27" font-size="13" fill="#6B6B68" text-anchor="middle">JunkFinder</text>
+  <text x="930" y="27" font-size="12" fill="#8A8A86" text-anchor="middle">⟳ Yeniden tara</text>
+
+  <rect x="0" y="44" width="220" height="556" fill="#EFEFEC"/>
+  <line x1="220" y1="44" x2="220" y2="600" stroke="#DADAD6" stroke-width="1"/>
+
+  <g font-size="14" fill="#2B2B29">
+    <rect x="8" y="64" width="204" height="32" rx="6" fill="#E3E3DF"/>
+    <text x="20" y="85">Uygulama önbellekleri</text>
+    <text x="200" y="85" text-anchor="end" fill="#8A8A86" font-size="12">6,3 GB</text>
+
+    <text x="20" y="125" fill="#4C4C49">Uygulama günlükleri</text>
+    <text x="200" y="125" text-anchor="end" fill="#8A8A86" font-size="12">1,1 GB</text>
+
+    <text x="20" y="165" fill="#4C4C49">Kaydedilmiş pencere durumları</text>
+    <text x="200" y="165" text-anchor="end" fill="#8A8A86" font-size="12">13 KB</text>
+
+    <text x="20" y="205" fill="#4C4C49">Xcode derived data</text>
+    <text x="200" y="205" text-anchor="end" fill="#8A8A86" font-size="12">12,4 GB</text>
+
+    <text x="20" y="245" fill="#4C4C49">Xcode arşivleri</text>
+    <text x="200" y="245" text-anchor="end" fill="#8A8A86" font-size="12">1,6 GB</text>
+
+    <text x="20" y="285" fill="#4C4C49">Eski cihaz sembolleri</text>
+    <text x="200" y="285" text-anchor="end" fill="#8A8A86" font-size="12">3,2 GB</text>
+
+    <text x="20" y="325" fill="#4C4C49">Simülatör önbelleği</text>
+    <text x="200" y="325" text-anchor="end" fill="#8A8A86" font-size="12">2,1 GB</text>
+
+    <text x="20" y="365" fill="#4C4C49">Unutulmuş kurulumlar</text>
+    <text x="200" y="365" text-anchor="end" fill="#8A8A86" font-size="12">850 MB</text>
+  </g>
+
+  <line x1="0" y1="560" x2="220" y2="560" stroke="#DADAD6" stroke-width="1"/>
+  <text x="20" y="583" font-size="13" fill="#4C4C49">Toplam</text>
+  <text x="200" y="583" font-size="14" fill="#1C1C1A" text-anchor="end" font-weight="bold">27,6 GB</text>
+
+  <g font-size="14" fill="#8A8A86" text-anchor="middle">
+    <circle cx="610" cy="300" r="34" fill="none" stroke="#C9C9C4" stroke-width="2"/>
+    <path d="M598 292h24l-2 26a4 4 0 0 1-4 4h-12a4 4 0 0 1-4-4z" fill="none" stroke="#C9C9C4" stroke-width="2"/>
+    <line x1="596" y1="292" x2="624" y2="292" stroke="#C9C9C4" stroke-width="2"/>
+    <text x="610" y="360">Soldan bir kategori seç</text>
+  </g>
+</svg>

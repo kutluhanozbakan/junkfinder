@@ -1,0 +1,6 @@
+.build/
+.swiftpm/
+*.xcodeproj
+DerivedData/
+JunkFinder.app
+.DS_Store

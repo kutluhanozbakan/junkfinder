@@ -1,0 +1,60 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="1000" height="600" rx="14" fill="#F5F5F4"/>
+  <rect x="1" y="1" width="998" height="598" rx="13" fill="none" stroke="#DADAD6" stroke-width="1"/>
+
+  <rect x="0" y="0" width="1000" height="44" rx="14" fill="#ECECE8"/>
+  <rect x="0" y="30" width="1000" height="14" fill="#ECECE8"/>
+  <circle cx="26" cy="22" r="6" fill="#ED6A5E"/>
+  <circle cx="46" cy="22" r="6" fill="#F4BF4F"/>
+  <circle cx="66" cy="22" r="6" fill="#61C454"/>
+  <text x="500" y="27" font-size="13" fill="#6B6B68" text-anchor="middle">Uygulama önbellekleri</text>
+  <text x="930" y="27" font-size="12" fill="#8A8A86" text-anchor="middle">⟳ Yeniden tara</text>
+
+  <rect x="0" y="44" width="220" height="556" fill="#EFEFEC"/>
+  <line x1="220" y1="44" x2="220" y2="600" stroke="#DADAD6" stroke-width="1"/>
+  <g font-size="13" fill="#4C4C49">
+    <rect x="8" y="64" width="204" height="32" rx="6" fill="#E3E3DF"/>
+    <text x="20" y="85" fill="#2B2B29">Uygulama önbellekleri</text>
+    <text x="20" y="125">Uygulama günlükleri</text>
+    <text x="20" y="165">Kaydedilmiş pencere durumları</text>
+    <text x="20" y="205">Xcode derived data</text>
+    <text x="20" y="245">Xcode arşivleri</text>
+  </g>
+
+  <g>
+    <rect x="236" y="62" width="70" height="22" rx="11" fill="#DCEEDC"/>
+    <text x="271" y="77" font-size="11" fill="#2F6B2F" text-anchor="middle" font-weight="bold">Güvenli</text>
+    <text x="864" y="77" font-size="12" fill="#5B7FBE" text-anchor="end">Tümünü seç</text>
+    <text x="960" y="77" font-size="12" fill="#5B7FBE" text-anchor="end">Seçimi kaldır</text>
+    <text x="236" y="104" font-size="12" fill="#6B6B68">Uygulamaların kendi başına ürettiği geçici dosyalar. Silinince uygulamalar gerektiğinde yeniden oluşturur.</text>
+  </g>
+
+  <g font-size="13">
+    <line x1="236" y1="128" x2="964" y2="128" stroke="#E3E3DF"/>
+    <rect x="236" y="140" width="14" height="14" rx="3" fill="#2B2B29"/>
+    <text x="264" y="152" fill="#1C1C1A">com.example.PhotoEditor</text>
+    <text x="264" y="168" font-size="11" fill="#9A9A96">~/Library/Caches/com.example.PhotoEditor</text>
+    <text x="964" y="150" text-anchor="end" fill="#1C1C1A">2,8 GB</text>
+    <text x="964" y="166" text-anchor="end" font-size="11" fill="#9A9A96">Son erişim: 6 ay önce</text>
+
+    <line x1="236" y1="186" x2="964" y2="186" stroke="#E3E3DF"/>
+    <rect x="236" y="198" width="14" height="14" rx="3" fill="#2B2B29"/>
+    <text x="264" y="210" fill="#1C1C1A">com.example.VideoTool</text>
+    <text x="264" y="226" font-size="11" fill="#9A9A96">~/Library/Caches/com.example.VideoTool</text>
+    <text x="964" y="208" text-anchor="end" fill="#1C1C1A">1,4 GB</text>
+    <text x="964" y="224" text-anchor="end" font-size="11" fill="#9A9A96">Son erişim: 3 ay önce</text>
+
+    <line x1="236" y1="244" x2="964" y2="244" stroke="#E3E3DF"/>
+    <rect x="236" y="256" width="14" height="14" rx="3" fill="none" stroke="#B5B5B0" stroke-width="1.5"/>
+    <text x="264" y="268" fill="#1C1C1A">com.example.ChatApp</text>
+    <text x="264" y="284" font-size="11" fill="#9A9A96">~/Library/Caches/com.example.ChatApp</text>
+    <text x="964" y="266" text-anchor="end" fill="#1C1C1A">640 MB</text>
+    <text x="964" y="282" text-anchor="end" font-size="11" fill="#9A9A96">Son erişim: 1 ay önce</text>
+    <line x1="236" y1="302" x2="964" y2="302" stroke="#E3E3DF"/>
+  </g>
+
+  <line x1="220" y1="540" x2="1000" y2="540" stroke="#DADAD6"/>
+  <text x="236" y="570" font-size="13" fill="#4C4C49">2 öğe seçildi · 4,2 GB</text>
+  <rect x="820" y="552" width="150" height="30" rx="7" fill="none" stroke="#D98C8C" stroke-width="1.5"/>
+  <text x="895" y="572" font-size="12" fill="#B33B3B" text-anchor="middle">🗑 Çöp kutusuna taşı</text>
+</svg>
